@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@passageidentity/passage-node": "^1.4.0",
+    "@rainbow-me/rainbowkit": "^0.4.4",
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.9",
+    "express": "^4.17.3",
+    "wagmi": "^0.5.11"
+  }
+}
